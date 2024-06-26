@@ -79,6 +79,8 @@
 
 ---
 ### ✏️ Testing Artefacts:
+
+<div>
 + [Testing-theory](https://github.com/bugakova1990/Testing-theory)
 + [Design](https://github.com/bugakova1990/design)
 + [Docs](https://github.com/bugakova1990/docs)
@@ -87,6 +89,6 @@
 + [Mobile](https://github.com/bugakova1990/mobile-)
 + [Web](https://github.com/bugakova1990/web)
 + [Git_bash](https://github.com/bugakova1990/-git_bash)
-
+</div>
 
 

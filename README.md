@@ -77,6 +77,16 @@
 | ----------------------------------------------------------------| :---------------: |
 | https://rusau.net/Курс "Функциональное тестирование ПО"         | 03/2024 - 06/2024 |
 
---- -->
+---
+### ✏️ Testing Artefacts:
++ [Testing-theory](https://github.com/bugakova1990/Testing-theory)
++ [Design](https://github.com/bugakova1990/design)
++ [Docs](https://github.com/bugakova1990/docs)
++ [Api](https://github.com/bugakova1990/api-)
++ [Database](https://github.com/bugakova1990/database-)
++ [Mobile](https://github.com/bugakova1990/mobile-)
++ [Web](https://github.com/bugakova1990/web)
++ [Git_bash](https://github.com/bugakova1990/-git_bash)
+
 
 

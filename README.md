@@ -69,6 +69,8 @@
   
 </div>
 
+---
+
 ### ✏️ Testing Artefacts:
 
 <div>
@@ -90,6 +92,7 @@
 + [Git_bash](https://github.com/bugakova1990/-git_bash)
 
 </div>
+
 ---
 
 <!-- ### 💻 Пройденные курсы:

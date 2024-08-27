@@ -79,7 +79,7 @@
   
 + [Design](https://github.com/bugakova1990/design)
   
-+ [Docs](https://github.com/bugakova1990/docs)
++ [Docs](https://github.com/bugakova1990/test-docs)
   
 + [Api](https://github.com/bugakova1990/api-)
   

@@ -19,7 +19,7 @@
   </div>
 
 ---
-### [My CV] (https://drive.google.com/file/d/1ldYlKVGEl2teqC52jfDPISFV4XhGcenh/view?usp=sharing) 
+### [My CV](https://drive.google.com/file/d/1ldYlKVGEl2teqC52jfDPISFV4XhGcenh/view?usp=sharing) 
 ---
 
 ### 📁 Тестовая документация:
